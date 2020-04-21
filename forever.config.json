@@ -1,0 +1,7 @@
+{
+  "uid": "server-state",
+  "append": true,
+  "watch": true,
+  "sourceDir": ".",
+  "script": "bin/www"
+}
