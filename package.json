@@ -19,6 +19,6 @@
   "dependencies": {
     "@server-state/raw-module": "^0.1.10",
     "@server-state/server-base": "^0.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.2"
   }
 }
